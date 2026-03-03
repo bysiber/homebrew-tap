@@ -1,6 +1,6 @@
 cask "portpeek" do
-  version "1.0.0"
-  sha256 "75258d6df2aec9ffb99012b9c506312d1232b8f6949b091a9d4e06cba624d6f5"
+  version "1.1.0"
+  sha256 "b2c7d790ca7852ec6c91259f0172df8ee065c954f627360c371d04f2d717c2e1"
 
   url "https://github.com/bysiber/PortPeek/releases/download/v#{version}/PortPeek-v#{version}-macOS.zip"
   name "PortPeek"
